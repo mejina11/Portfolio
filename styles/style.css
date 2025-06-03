@@ -168,7 +168,7 @@ html, body {
     & .about-image {
         width: 100%;
         max-width: 500px;
-        min-width: 100px;
+        min-width: 300px;
         /*  Will shrink on smaller screens */
         aspect-ratio: 1 / 1;
         /* Keeps it square, you can tweak */
